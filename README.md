@@ -22,8 +22,9 @@ layout:
 
 Welcome to the documentation for AfternoonSky!  PMsky is a platform that enables _peer moderation_ on [Bluesky](http://bsky.social) and the wider [AT Protocol](https://atproto.com).
 
-You can follow the project [on Bluesky](https://bsky.app/profile/pmsky.social)
-
+* Homepage: [pmsky.social](//pmsky.social)
+* Bsky: [@pmsky.social](https://bsky.app/profile/pmsky.social)
+* Platform (coming soon): [app.pmsky.social](//app.pmsky.social)
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Why Peer Moderation?</strong></td><td>Learn about the motivation</td><td><a href="getting-started/why-peer-moderation.md">why-peer-moderation.md</a></td></tr><tr><td><strong>How does it work?</strong></td><td>Learn about the pieces.</td><td><a href="getting-started/how-it-works.md">how-it-works.md</a></td></tr></tbody></table>
 
