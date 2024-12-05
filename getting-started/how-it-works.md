@@ -22,6 +22,6 @@ Once votes are published to the atmosphere, labelers can consume them and begin 
 
 This allows for flexibility depending on the situation, where self-identification might require a low threshold of votes, while other labels might require a supermajority of consensus. &#x20;
 
-
+## Big Picture
 
 The goal of this architecture is flexibility for different use cases.  What works for one situation might not work for another.  PMsky simply aims to provide the tools for labelers to be built on top of the ideal of peer participation.
