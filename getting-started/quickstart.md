@@ -1,23 +1,27 @@
 ---
-icon: bullseye-arrow
+icon: rectangles-mixed
 ---
 
-# Quickstart
+# How does it work?
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+There are two main pieces to the initial architecture. &#x20;
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+A platform, where users vote on labels that have been applied to users and posts. &#x20;
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](https://github.com/GitbookIO/onboarding-template/blob/main/getting-started/broken-reference/README.md) section to learn more.
-{% endhint %}
+Labelers,  built independently to leverage those votes to publish labels on Bluesky.
 
-### Import
+## The Platform
 
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
+The platform will be a simple interface for users to interact with potential content labels.  It will allow anyone with an account on Bluesky to view proposed labels, and vote them up or down accordingly.
 
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
+Those votes will then be published to a PDS (either the user's, or aggregated for privacy) under a `social.pmsky.*` lexicon to allow labelers to consume these votse.
 
-### Sync a repository
+## The Labelers
 
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.
+Once votes are published to the atmosphere, labelers can consume them and begin building a picture of the labels that users agree or disagree with.  They'll be able to define what consensus looks like, and publish labels accordingly. &#x20;
+
+This allows for flexibility depending on the situation, where self-identification might require a low threshold of votes, while other labels might require a supermajority of consensus. &#x20;
+
+
+
+The goal of this architecture is flexibility for different use cases.  What works for one situation might not work for another.  PMsky simply aims to provide the tools for labelers to be built on top of the ideal of peer participation.
