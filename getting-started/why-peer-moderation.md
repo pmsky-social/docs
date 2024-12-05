@@ -1,5 +1,4 @@
 ---
-description: What's the motivation behind this project?
 icon: question
 ---
 

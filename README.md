@@ -24,5 +24,5 @@ Welcome to the documentation for AfternoonSky!  PMsky is a platform that enables
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Why Peer Moderation?</strong></td><td>Learn about the motivation</td><td><a href="getting-started/why-peer-moderation.md">why-peer-moderation.md</a></td></tr><tr><td><strong>How does it work?</strong></td><td>Learn about the pieces.</td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Why Peer Moderation?</strong></td><td>Learn about the motivation</td><td><a href="getting-started/why-peer-moderation.md">why-peer-moderation.md</a></td></tr><tr><td><strong>How does it work?</strong></td><td>Learn about the pieces.</td><td><a href="getting-started/quickstart.md">quickstart.md</a></td></tr></tbody></table>
 
