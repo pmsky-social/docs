@@ -11,3 +11,4 @@
 ## Getting Technical <a href="#tech" id="tech"></a>
 
 * [Lexicon](tech/lexicon.md)
+* [Privacy](tech/privacy.md)
