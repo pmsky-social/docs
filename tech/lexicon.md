@@ -14,7 +14,7 @@ PMsky defines two main record types: labels, and votes.  The former is heavily b
 
 These labels closely mirror those defined in `com.atproto.label.defs#label`.  They have a _subject_, which is another record they apply to, and a _value_, which is the text of the label itself.&#x20;
 
-See the full definition here: [https://github.com/AfternoonSky/app/blob/main/lexicons/label.json](https://github.com/AfternoonSky/app/blob/main/lexicons/label.json)&#x20;
+See the full definition here: [https://github.com/pmsky-social/app/blob/main/lexicons/label.json](https://github.com/AfternoonSky/app/blob/main/lexicons/label.json)&#x20;
 
 ## Votes
 
@@ -24,5 +24,5 @@ See the full definition here: [https://github.com/AfternoonSky/app/blob/main/lex
 
 Votes are similar to labels, in that they have a _subject_ they apply to.  They also have a _value_, which is either `1` or `-1`. &#x20;
 
-See the full definition here: [https://github.com/AfternoonSky/app/blob/main/lexicons/vote.json](https://github.com/AfternoonSky/app/blob/main/lexicons/vote.json)
+See the full definition here: [https://github.com/pmsky-social/app/blob/main/lexicons/vote.json](https://github.com/AfternoonSky/app/blob/main/lexicons/vote.json)
 
